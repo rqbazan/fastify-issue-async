@@ -15,7 +15,6 @@
 λ node fastify-v2
 { app: true }
 {"level":30,"time":1593999007374,"pid":17756,"hostname":"kratos","msg":"Server listening at http://127.0.0.1:3000","v":1}
-^C
 ```
 
 4. Run `node fastify-v3`
